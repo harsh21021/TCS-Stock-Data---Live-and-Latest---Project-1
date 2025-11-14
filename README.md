@@ -12,6 +12,7 @@ Understanding the Problem Statement
 We’ll dive into the implementation part of this Project soon, but first it’s important to establish what we’re aiming to solve. Broadly, stock market analysis is divided into two parts – Fundamental Analysis and Technical Analysis. Fundamental Analysis involves analyzing the company’s future profitability on the basis of its current business environment and financial performance. Technical Analysis, on the other hand, includes reading the charts and using statistical figures to identify the trends in the stock market. As you might have guessed, our focus will be on the technical analysis and visualization part. We’ll be using a dataset from Google stock Price test and train.
 
 Implementation:
+
 1.Using Sckiit Learning( Machine Learning model)
 
 2.Data Preprocessing using dataset
